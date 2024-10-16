@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
+    ios_base::sync_with_stdio(false);
+    
     string s, stemp="";
     set<string> set;
     cin>>s;
